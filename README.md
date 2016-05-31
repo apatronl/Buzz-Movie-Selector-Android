@@ -19,3 +19,4 @@
 
 ### Application Description
 This application will allow students to share private recommendations and comments about movies they have seen, and to rank movies. Movie rankings can be reported overall, or by student major.
+# Buzz-Movie-Selector-Android
