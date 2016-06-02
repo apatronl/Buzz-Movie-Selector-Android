@@ -2,11 +2,12 @@
 ### CS 2340
 
 ### TEAM MEMBERS:
-  - Daniel Barrundia
-    - dbarrundia3@gatech.edu
+  
   - Alejandrina Patron
     - apl7@gatech.edu
     - Computer Science
+  - Daniel Barrundia
+    - dbarrundia3@gatech.edu
   - Pablojose Conde
     - pconde3@gatech.edu
     - Computer Science
@@ -18,5 +19,4 @@
     - Computer Science
 
 ### Application Description
-This application will allow students to share private recommendations and comments about movies they have seen, and to rank movies. Movie rankings can be reported overall, or by student major.
-# Buzz-Movie-Selector-Android
+Android implementation of Buzz Movie Selector, a movie search and rating app for Georgia Tech’s CS 2340 class (Objects and Design). This application allows students to share ratings and comments about movies they have seen. Movie rankings can be reported overall, or by student major.
